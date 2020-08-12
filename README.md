@@ -21,8 +21,8 @@ help     ------     显示帮助信息
 ```
 ### 原理
 
-  ![](https://raw.githubusercontent.com/JuchiaLu/linux-ext2/master/pictures/EXT2_1.png)
+  ![](http://47.107.243.187:9530/linux-ext2/pictures/EXT2_1.png)
 
-  ![](https://raw.githubusercontent.com/JuchiaLu/linux-ext2/master/pictures/EXT2_2.png)
+  ![](http://47.107.243.187:9530/linux-ext2/pictures/EXT2_2.png)
 
-  ![](https://raw.githubusercontent.com/JuchiaLu/linux-ext2/master/pictures/EXT2_3.png)
+  ![](http://47.107.243.187:9530/linux-ext2/pictures/EXT2_3.png)
